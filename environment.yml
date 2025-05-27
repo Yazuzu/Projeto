@@ -1,0 +1,25 @@
+name: aivtuber
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy>=1.23.0
+  - opencv
+  - faiss-cpu
+  - beautifulsoup4
+  - aiohttp
+  - pyttsx3
+  - python-dotenv
+  - tqdm
+  - pip:
+      - nextcord>=3.0.0
+      - sentence-transformers>=2.2.0
+      - duckduckgo-search>=3.0.0
+      - ollama>=0.1.0
+      - cffi>=1.15.0
+      - vtube-studio-api>=0.1.0
+      - loguru>=0.7.0
+      - pydantic>=2.0.0
+      - requests>=2.28.0

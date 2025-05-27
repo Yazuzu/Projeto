@@ -1,0 +1,22 @@
+# === Dependências principais ===
+nextcord>=3.0.0         # Discord bot
+aiohttp>=3.8.0          # HTTP async
+sentence-transformers>=2.2.0  # Embeddings, NLP
+faiss-cpu>=1.7.0        # Similaridade vetorial
+duckduckgo-search>=3.0.0  # Pesquisa na web
+beautifulsoup4>=4.11.0  # Parsing HTML
+numpy>=1.23.0           # Numérico
+python-dotenv>=0.19.0   # Variáveis de ambiente
+pyttsx3>=2.90           # Text-to-speech
+ollama>=0.1.0           # Modelos locais
+cffi>=1.15.0            # FFI - C, Rust integração
+
+# === Avatar e processamento de imagem ===
+opencv-python>=4.5.0    # Processamento de imagens
+vtube-studio-api>=0.1.0 # Integração com VTube Studio
+
+# === Outros úteis ===
+loguru>=0.7.0           # Logging elegante
+pydantic>=2.0.0         # Validação de dados
+requests>=2.28.0        # HTTP simples
+tqdm>=4.64.0            # Progress bars
