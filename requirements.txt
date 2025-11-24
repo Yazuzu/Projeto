@@ -1,0 +1,16 @@
+nextcord
+duckduckgo_search
+requests
+beautifulsoup4
+ollama
+python-dotenv
+nextcord
+duckduckgo_search
+requests
+beautifulsoup4
+ollama
+python-dotenv
+pydantic-settings
+numpy
+chromadb
+sentence-transformers
